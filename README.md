@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome is a bot designed by Mona to help and guide new team members.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome bot automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## Getting started
 
